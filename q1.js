@@ -1,0 +1,3 @@
+// Create a array and store all elements in it......
+var myFavouriteGames = ["chess", "Ludo", "Badminton", "Volleyball"];
+console.log(myFavouriteGames);
